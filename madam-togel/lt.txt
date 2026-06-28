@@ -2287,7 +2287,7 @@ a:hover {
                                      </div>
                                      <div class="info-row-olx">
                                          <span class="info-label-olx">Jenis Provider</span>
-                                         <span class="info-value-olx">IDN PLAY</span>
+                                         <span class="info-value-olx">MADAMTOTO</span>
                                      </div>
                                      <div class="info-row-olx">
                                          <span class="info-label-olx">Min Deposit</span>
