@@ -2536,7 +2536,7 @@
                                                 data-price-with-secWarranty="$259.00 SGD"
                                                 data-price-with-care-and-secWarranty="$1,596.00 SGD"
                                                 data-price-with-trade-in="0" data-price-calculation="4">
-                                                IDR 5.000
+                                                IDR 10.000
                                             </span>
                                         </p>
                                         <small class="unit-price caption hidden">
