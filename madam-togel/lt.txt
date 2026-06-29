@@ -17,10 +17,10 @@
     <meta name="robots" content="index, follow">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
-    <link rel="shortcut icon" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
-    <link rel="icon" type="image/webp" sizes="16x16" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
+    <link rel="shortcut icon" href="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png">
+    <link rel="icon" type="image/webp" sizes="16x16" href="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png">
     <title>The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</title>
     <meta name="description"
         content="MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. "/>
@@ -1457,7 +1457,7 @@
                             rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset"
                             aria-label="Home">
                             <div class="ratio" style="--ratio-percent: 25.875000000000004%">
-                                <img src="https://cungkokahasikkali.pages.dev/togel-banner/logomadampng.png" loading="lazy"
+                                <img src="https://madampasitnaik.pages.dev/logo-gif-madamtoto/logo-gif-madamtoto.gif" loading="lazy"
                                     class="header__heading-logo company_logo ratio" width="700" height="200"
                                     alt="MADAMTOTO">
                             </div>
@@ -2649,9 +2649,9 @@
                                         &nbsp </label>
                                 </fieldset>
                                 <p>
-                                    <a href="https://thekatcafe.com"target="_blank">
+                                    <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"target="_blank">
                                         <img style="display:block;margin-left:auto;margin-right:auto;"
-                                            src="https://cungkokahasikkali.pages.dev/togel-banner/logomadampng.png" width="400"
+                                            src="https://madampasitnaik.pages.dev/logo-gif-madamtoto/logo-gif-madamtoto.gif" width="400"
                                             height="auto" />
                                     </a>
                                 </p>
@@ -2723,7 +2723,7 @@
                                             <div class="mobile-care-pdp">
                                                 <div class="left care-pdp-img">
                                                     <a class="care-img" href="/pages/applecare-landing-page">
-                                                        <img src="https://abang-cungkok.pages.dev/MadamToto/favim.png"
+                                                        <img src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png"
                                                             loading="lazy" class="add-on-image" width="100" height="100"
                                                             alt="Care image">
                                                     </a>
@@ -7987,8 +7987,8 @@
                     loading="lazy" width="1100" height="1100" data-media-id="32127875580084" />
                 <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow"
                     style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
-                    <video playsinline="1" poster="https://abang-cungkok.pages.dev/MadamToto/favim.png?v=1757995782&;width=758"
-                        preload="metadata" src="https://abang-cungkok.pages.dev/MadamToto/favim.png?v=1757995782&;width=758"
+                    <video playsinline="1" poster="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png?v=1757995782&;width=758"
+                        preload="metadata" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png?v=1757995782&;width=758"
                         controls="controls" muted="muted"></video>
                 </deferred-media>
             </div>
@@ -8004,7 +8004,7 @@
                         data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
                         <p class="apple-care-modal__heading">Keuntungan bermain di MADAMTOTO</p>
                         <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img
-                                src="https://abang-cungkok.pages.dev/MadamToto/favim.png" alt="MADAMTOTO" width="418"
+                                src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="MADAMTOTO" width="418"
                                 height="597" loading="lazy" /></div>
                         <div class="apple-care-modal__content">
                             <div class="metafield-rich_text_field">
