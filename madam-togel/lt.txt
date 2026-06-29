@@ -17,20 +17,20 @@
     <meta name="robots" content="index, follow">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
-    <link rel="shortcut icon" href="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg">
-    <link rel="icon" type="image/webp" sizes="16x16" href="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg">
-    <title>MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026</title>
+    <link rel="shortcut icon" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
+    <link rel="icon" type="image/webp" sizes="16x16" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
+    <title>The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</title>
     <meta name="description"
-        content="MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. "/>
+        content="MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. "/>
     <meta property="og:site_name" content="MADAMTOTO" />
     <meta property="og:url" content="https://thekatcafe.com"/>
     <meta property="og:title"
-        content="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"/>
+        content="The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"/>
     <meta property="og:type" content="product" />
     <meta property="og:description"
-        content="MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. "/>
+        content="MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. "/>
     <meta property="og:image" content="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png"/>
     <meta property="og:image:secure_url"
         content="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png"/>
@@ -41,9 +41,9 @@
     <meta property="og:locale" content="id_ID" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title"
-        content="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"/>
+        content="The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"/>
     <meta name="twitter:description"
-        content="MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. "/>
+        content="MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. "/>
     <script type="text/javascript" async=""
         src="//app.backinstock.org/widget/91512_1746008386.js?category=bis&;v=6&;shop=istudio-elush-production.myshopify.com"></script>
     <script>
@@ -727,7 +727,7 @@
         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
         window.ShopifyAnalytics.meta.currency = 'SGD';
-        var meta = { "product": { "id": 7986665160884, "gid": "gid:\/\/shopify\/Product\/7986665160884", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 44033871610036, "price": 25900, "name": "MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026", "public_title": null, "sku": "MG8H4X\/A" }], "remote": false }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7986665160884 } };
+        var meta = { "product": { "id": 7986665160884, "gid": "gid:\/\/shopify\/Product\/7986665160884", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 44033871610036, "price": 25900, "name": "The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap", "public_title": null, "sku": "MG8H4X\/A" }], "remote": false }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7986665160884 } };
         for (var attr in meta) {
             window.ShopifyAnalytics.meta[attr] = meta[attr];
         }
@@ -852,7 +852,7 @@
                             RAIH KEMENANGAN YANG LUAR BIASA
                         </div>
                         <div class="hura-message swiper-slide slick-slide slick-current slick-active"
-                            style="width: 352px;" data-slick-index="0" aria-hidden="true" tabindex="-1">MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. <a
+                            style="width: 352px;" data-slick-index="0" aria-hidden="true" tabindex="-1">MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. <a
                                 href="https://thekatcafe.com"class="announcement_link"
                                 target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1">
                                 Daftar Disini !
@@ -880,7 +880,7 @@
                         </div>
                         <div class="hura-message swiper-slide slick-slide slick-cloned" style="width: 352px;"
                             data-slick-index="6" aria-hidden="true" tabindex="-1">
-                            MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. 
+                            MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. 
                             <a href="https://thekatcafe.com"class="announcement_link"
                                 target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1">
                                 Daftar Disini !
@@ -2113,7 +2113,7 @@
                             </div>
                         </div>
                         <div class="product-title-style product__title">
-                            <h1>MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026
+                            <h1>The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap
                             </h1>
                         </div>
                         <div class="product-subtitle-style"></div>
@@ -2180,7 +2180,7 @@
                                                 </div>
                                                 <div class="product__media media media--transparent">
                                                     <img src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png"
-                                                        alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"
+                                                        alt="The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"
                                                         srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=246 246w, https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=493 493w, https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=600 600w, https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=713 713w, https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png 823w"
                                                         width="823" height="823" class="image-magnify-lightbox"
                                                         sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
@@ -2472,7 +2472,7 @@
                                     </div>
                                 </div>
                                 <div class="product-title-style product__title">
-                                    <h1> MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026</h1>
+                                    <h1> The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</h1>
                                 </div>
                                 <div class="product-subtitle-style"></div>
                                 <div class="skuAndBarcode">
@@ -2723,7 +2723,7 @@
                                             <div class="mobile-care-pdp">
                                                 <div class="left care-pdp-img">
                                                     <a class="care-img" href="/pages/applecare-landing-page">
-                                                        <img src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg"
+                                                        <img src="https://abang-cungkok.pages.dev/MadamToto/favim.png"
                                                             loading="lazy" class="add-on-image" width="100" height="100"
                                                             alt="Care image">
                                                     </a>
@@ -2789,7 +2789,7 @@
                                         data-section="template--17605519376564__main">
                                         <button class="quantity__button no-js-hidden disabled" name="minus"
                                             type="button">
-                                            <span class="visually-hidden">Decrease quantity for MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026</span>
+                                            <span class="visually-hidden">Decrease quantity for The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</span>
                                             <svg width="8" height="3" viewBox="0 0 8 3" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M8 2.63477V0.501953H0V2.63477H8Z" fill="#121212"
@@ -2801,7 +2801,7 @@
                                             id="prodQuantity" data-cart-quantity="0" data-min="1" min="1" step="1"
                                             value="1" max="null" />
                                         <button class="quantity__button no-js-hidden" name="plus" type="button">
-                                            <span class="visually-hidden">Increase quantity for MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026</span>
+                                            <span class="visually-hidden">Increase quantity for The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</span>
                                             <svg width="10" height="9" viewBox="0 0 10 9" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path
@@ -2925,7 +2925,7 @@
                                         <input type="hidden" class="pdp_product_currency" value="SGD" />
                                         <input type="hidden" class="pdp_product_price" id="product_price" value="" />
                                         <input type="hidden" class="pdp_product_title"
-                                            value="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026">
+                                            value="The MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap">
                                         <div class="addtocartPDP product-form__buttons">
                                             <button id="addtocart-submit" type="submit" name="add"
                                                 class="addtocartPDP product-form__submit button button--full-width button--secondary"
@@ -3184,7 +3184,7 @@
                             <div class="shura">
                                 <div class="shura-daftar">
                                     <a rel="nofollow noopener" href="https://thekatcafe.com">
-                                        <img src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg" width="100%"
+                                        <img src="https://abang-cungkok.pages.dev/MadamToto/favim.png" width="100%"
                                             height="auto" alt="Daftar Sekarang">
                                     </a>
                                 </div>
@@ -3435,12 +3435,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026",
+  "name": "MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap",
   "url": "https://thekatcafe.com",
   "image": [
     "https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&width=823"
   ],
-  "description": "MADAMTOTO adalah solusi terbaik mencari hiburan slot dan togel online 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan Terbaik. ",
+  "description": "MADAMTOTO solusi terbaik mencari hiburan slot viral dan togel online terlengkap 2026. Temukan berbagai macam pelayanan madam toto yang cepat, aman, Dan berkualitas. ",
   "sku": "9877655499",
   "brand": {
     "@type": "Brand",
@@ -3523,45 +3523,12 @@
                     max-height: 20px;
                 }
             </style>
-
-            <div class="MADAMTOTO-fixed-footer">
-                <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg"
-                        alt="BONUS MADAMTOTO">
-                    Promo
-                </a>
-                <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg"
-                        alt="LOGIN MADAMTOTO">
-                    Login
-                </a>
-                <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"rel="nofollow noopener" target="_blank"
-                    class="tada">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg"
-                        alt="DAFTAR MADAMTOTO">
-                    Daftar
-                </a>
-                <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"rel="nofollow noopener" target="_blank">
-                    <img layout="intrinsic" height="20px" width="20px" src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg"
-                        alt="WHATSAPP MADAMTOTO">
-                    Whatsapp
-                </a>
-                <a href="https://cungkokahasikkali.pages.dev/madam-togel/amp"rel="nofollow noopener" target="_blank"
-                    class="js_live_chat_link live-chat-link">
-                    <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                        src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg" alt="LIVE CHAT MADAMTOTO">
-                    Live Chat
-                </a>
-            </div>
-
-
-
             <input type="hidden" id="page_title"
-                value="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"/>
+                value="MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"/>
 
             <script type="application/json" id="adobeAnalyticsProductData">
 {
-  "product_name": "MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026",
+  "product_name": "MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap",
   "mpn_id": "9877655499",
   "currency": "SGD",
   "product_price": {
@@ -3570,7 +3537,7 @@
   },
   "brand": "MADAMTOTO",
   "lob": "MADAMTOTO LINK ALTERNATIF ",
-  "sub_lob": "MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"
+  "sub_lob": "MADAMTOTO ✈️ Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"
 }
 </script>
             <style>
@@ -3948,7 +3915,7 @@
 
             <div class="neon-card">
                 <div class="neon-inner">
-                    <h2>MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026</h2>
+                    <h2>MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap</h2>
 
                     <p><a href="https://thekatcafe.com" style="color: red;">MADAMTOTO</a> hadir sebagai pilihan tepat bagi Anda yang ingin menikmati hiburan online dengan pengalaman bermain yang praktis, nyaman, dan penuh variasi di tahun 2026. Dengan beragam pilihan permainan yang tersedia, MADAMTOTO dirancang untuk memberikan akses hiburan digital yang mudah dijangkau kapan saja. Tampilan platform yang responsif serta proses akses yang cepat menjadi nilai tambah bagi pengguna yang menginginkan pengalaman tanpa ribet.</p>
                     <p><a href="https://thekatcafe.com" style="color: red;">MADAMTOTO</a> juga berupaya memberikan kenyamanan melalui dukungan berbagai metode transaksi dan layanan pelanggan yang siap membantu pengguna. Beragam fitur hiburan online yang terus diperbarui membuat platform ini menjadi salah satu alternatif bagi pecinta hiburan digital modern di 2026. Dengan fokus pada kemudahan akses dan pengalaman pengguna, MADAMTOTO menjadi solusi hiburan online yang semakin diminati.</p>
@@ -4838,8 +4805,8 @@
                                             href="https://thekatcafe.com"
                                             target="_blank" title="">MADAMTOTO</a></span>
                                     <span class="copyright__content"><a target="_blank"
-                                            rel="nofollow noopener noreferrer">Powered
-                                            SEO Hnst,</a></span>
+                                            rel="nofollow noopener noreferrer">
+                                            ,</a></span>
                                 </div>
                             </div>
                         </div>
@@ -4991,7 +4958,7 @@
             <div class="js-store-locator-product-info my-store-locator-drawer__product">
                 <div class="my-store-locator-drawer__product-image global-media-settings">
                     <img src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png"
-                        alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"
+                        alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"
                         width="88" height="88" loading="lazy">
                 </div>
                 <div class="my-store-locator-drawer__product-info">
@@ -7962,7 +7929,7 @@
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"
                     loading="lazy" width="1100" height="1100" data-media-id="32122040123572" />
                 <img class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
@@ -7974,54 +7941,54 @@
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450055&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040189108" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040189108" />
                 <img class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100"
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100"
                     data-media-id="32122040221876" />
                 <img class="custom_popup_compare_32122040254644 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040254644" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040254644" />
                 <img class="custom_popup_compare_32122040287412 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100"
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100"
                     data-media-id="32122040287412" />
                 <img class="custom_popup_compare_32122040320180 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040320180" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040320180" />
                 <img class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040352948" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040352948" />
                 <img class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040385716" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040385716" />
                 <img class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757450054&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"loading="lazy" width="1100" height="1100" data-media-id="32122040418484" />
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"loading="lazy" width="1100" height="1100" data-media-id="32122040418484" />
                 <img class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow"
                     srcset="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=550 550w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=1100 1100w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=1445 1445w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=1680 1680w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=2048 2048w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=2200 2200w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=2890 2890w,https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890 4000w"
                     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
                     src="https://cungkokahasikkali.pages.dev/togel-banner/togel-madam.png?v=1757491890&;width=1445"
-                    alt="MADAMTOTO | Portal Informasi Toto Macau, Togel Lotto & Pools Terbaru 2026"
+                    alt="MADAMTOTO Portal Betting Togel Online Macau, Lotto & Pools Terlengkap"
                     loading="lazy" width="1100" height="1100" data-media-id="32127875580084" />
                 <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow"
                     style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
-                    <video playsinline="1" poster="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg?v=1757995782&;width=758"
-                        preload="metadata" src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg?v=1757995782&;width=758"
+                    <video playsinline="1" poster="https://abang-cungkok.pages.dev/MadamToto/favim.png?v=1757995782&;width=758"
+                        preload="metadata" src="https://abang-cungkok.pages.dev/MadamToto/favim.png?v=1757995782&;width=758"
                         controls="controls" muted="muted"></video>
                 </deferred-media>
             </div>
@@ -8037,7 +8004,7 @@
                         data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
                         <p class="apple-care-modal__heading">Keuntungan bermain di MADAMTOTO</p>
                         <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img
-                                src="https://madammemangasik.pages.dev/banner-madam-asik/icon-madamtoto.jpg" alt="MADAMTOTO" width="418"
+                                src="https://abang-cungkok.pages.dev/MadamToto/favim.png" alt="MADAMTOTO" width="418"
                                 height="597" loading="lazy" /></div>
                         <div class="apple-care-modal__content">
                             <div class="metafield-rich_text_field">
